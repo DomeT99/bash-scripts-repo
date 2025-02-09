@@ -31,6 +31,16 @@ If you want to add more scripts, follow these steps:
 6. Create a pull request
 7. Wait for the pull request to be reviewed and merged
 
+## Support
+
+If you like this project, you can support me with a very small donation.
+<br/>
+I would be grateful 🥹
+<br/>
+<br/>
+<a href="https://www.buymeacoffee.com/domenicotenace" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 ## License 📄
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
